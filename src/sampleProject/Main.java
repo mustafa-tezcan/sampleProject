@@ -9,6 +9,11 @@ public class Main {
 		
 		System.out.println("bu örnek bir projedir.");
 		
+		System.out.println("degisiklik1");
+		System.out.println("degisiklik2");
+		
+		
+		
 	}
 
 }
